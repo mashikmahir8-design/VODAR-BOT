@@ -5,7 +5,7 @@ module.exports.config = {
  name: "baby",
  version: "1.0.1",
  hasPermssion: 0,
- credits: "ULLASH",
+ credits: "𝐌𝐀𝐒𝐇𝐈𝐊-𝐌𝐀𝐇𝐈𝐑",
  description: "Cute AI Baby Chatbot  | Talk, Teach & Chat with Emotion ☢️",
  commandCategory: "simsim",
  usages: "[message/query]",
